@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "hotbarscroll",
+  "version": "${version}",
+  "name": "Hotbar Scroll Keys",
+  "description": "Позволяет переключать слоты хотбара любыми кнопками клавиатуры или мыши (включая боковые).",
+  "authors": [
+    "vanes"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.hotbarscroll.HotbarScrollMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "*"
+  }
+}
