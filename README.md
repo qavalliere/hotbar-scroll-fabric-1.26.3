@@ -1,4 +1,4 @@
-# Hotbar Scroll Keys (Fabric 26.3) 🖱️🔄
+# Hotbar Scroll Keys 🖱️🔄
 
 Клиентский мод для Minecraft на базе **Fabric**, созданный специально для игроков, у которых **сломано или барахлит колёсико мыши**. 
 
@@ -6,11 +6,14 @@
 
 ---
 
-## 📥 Скачать мод
+## 📥 Скачать мод (Downloads)
 
-Нажмите на ссылку ниже, чтобы скачать готовый файл мода:
+Выберите версию Minecraft, на которой вы играете:
 
-👉 **[Скачать hotbarscroll-1.0.0-mc26.3.jar (Direct Download)](https://github.com/qavalliere/hotbar-scroll-fabric-1.26.3/raw/main/release/hotbarscroll-1.0.0-mc26.3.jar)**
+| Версия Minecraft | Файл мода | Прямая ссылка |
+|---|---|---|
+| **1.20 – 1.21.4** (1.20.1, 1.20.4, 1.21.1 и др.) | `hotbarscroll-1.0.0-mc1.20-1.21.4.jar` | 👉 **[Скачать (1.20 – 1.21.4)](https://github.com/qavalliere/hotbar-scroll-fabric-1.26.3/raw/main/release/hotbarscroll-1.0.0-mc1.20-1.21.4.jar)** |
+| **26.3** | `hotbarscroll-1.0.0-mc26.3.jar` | 👉 **[Скачать (26.3)](https://github.com/qavalliere/hotbar-scroll-fabric-1.26.3/raw/main/release/hotbarscroll-1.0.0-mc26.3.jar)** |
 
 ---
 
@@ -24,9 +27,9 @@
 
 ## 🛠️ Установка
 
-1. Убедитесь, что у вас установлен **Fabric Loader** и **Fabric API** для вашей версии Minecraft.
-2. Скачайте файл **`hotbarscroll-1.0.0-mc26.3.jar`**.
-3. Поместите скачанный файл в папку с модами:
+1. Убедитесь, что у вас установлен **Fabric Loader** и **Fabric API** для вашей версии игры.
+2. Скачайте нужный `.jar` файл выше.
+3. Поместите его в папку с модами:
    - **Windows**: `%appdata%\.minecraft\mods`
 4. Запустите Minecraft с профилем Fabric.
 
